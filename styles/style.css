@@ -1,0 +1,85 @@
+body{
+background-color:#E5E5E5;
+}
+.navbar-brand{
+    padding-left:57px;}
+.navbar-img{
+    padding-right:30px;
+}
+
+.container{
+    position: absolute;
+    background-color: #FFFFFF;
+    width: 870px;
+    height: 879px;
+    border-radius:5px ;
+    margin-top:20px;
+    padding-left: 50px;
+    margin-left: 70px;
+}
+h3{
+    color:#562EFF;
+    margin-left:10px;
+    margin-top: 30px;
+}
+.man-power img{
+    margin: 50px;
+    width:60px;
+    height:60px;
+    margin-left:10px;
+}
+
+.write img{
+    margin: 50px;
+    width: 140px;
+    height:90px;
+}
+.container-two{
+    position: relative;
+    right: 22px;
+    background-color: #FFFFFF;
+    margin-top: 50px;
+    width: 870px;
+}
+.card-deck{
+    margin-right: 30px;
+}
+.card img{
+    width: 126px;
+    height: 110px;
+}
+h5{
+    font-size: small;
+    font-weight: 700px;
+}
+
+p{
+    font-size: x-small;
+}
+
+.card-footer{
+    position: relative;
+    background-color: white;
+    font-size: 10px;
+    font-weight: 500;
+    font-family: serif;
+    height: 20px;
+    padding-bottom: 70px;
+    
+}
+
+.card-footer img{
+    width: x;
+    height: px;
+}
+
+.checked{
+    color:orange;
+}
+.dog{
+    color:wheat;
+}
+
+.text-muted{
+    height: 70px;
+}

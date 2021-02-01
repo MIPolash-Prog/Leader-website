@@ -63,16 +63,16 @@ p{
     font-size: 10px;
     font-weight: 500;
     font-family: serif;
-    height: 20px;
+    height:20px;
     padding-bottom: 70px;
-    
+   
 }
 
 .card-footer img{
-    width: x;
-    height: px;
-}
+    width:10px;
+    height:10px;
 
+}
 .checked{
     color:orange;
 }
@@ -80,6 +80,3 @@ p{
     color:wheat;
 }
 
-.text-muted{
-    height: 70px;
-}
